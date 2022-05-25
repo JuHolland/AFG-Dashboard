@@ -49,7 +49,7 @@ def main():
     c = col1.selectbox('Land Cover', ct['Legend'].values)
     i = col1.selectbox('Region', r['Adm1Name'].values)
 
-    df_path = 'Data/df/' + inv_ct_dict[c] + '/df_' + str(inv_r_dict[i]) + '.csv '
+    df_path = 'Data/df/' + inv_ct_dict[c] + '/df_' + str(inv_r_dict[i]) + '.csv'
     df = pd.read_csv(df_path, index_col = 0)
     df = df/10000
 
