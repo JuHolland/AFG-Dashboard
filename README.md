@@ -1,6 +1,6 @@
 # AFG Dashboard
 
-The idea of this project was to create a simple tool to visualize NDVI time series (read from a CSV file).
+The idea of this project was to create a simple tool to visualize NDVI time series in different regions of Afghanistan (read from a CSV file).
 
 2 different dashboards have been implemented: one with **Tableau** and one with **Streamlit**
 
