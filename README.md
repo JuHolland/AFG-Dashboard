@@ -1,13 +1,14 @@
 # AFG Dashboard
 
 The idea of this project was to create a simple tool to visualize NDVI time series (read from a CSV file).
+
 2 different dashboards have been implemented: one with **Tableau** and one with **Streamlit**
 
 ## Usage
 
  ### Tableau 
  (Tableau license required)
- - To run in locally: open Book.twb in the Tableau Desktop
+ - To run in locally: open Book.twb with Tableau
  - To open the app:  https://analytics.wfp.org/t/Public/views/AFG_NDVI/Dashboard?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
  
   ### Streamlit
