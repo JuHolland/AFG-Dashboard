@@ -6,14 +6,29 @@ The idea of this project was to create a simple tool to visualize NDVI time seri
 
 ## Usage
 
- ### Tableau 
- (Tableau license required)
- - To run it locally: open Book.twb with Tableau
- - To open the app:  https://analytics.wfp.org/t/Public/views/AFG_NDVI/Dashboard?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
- 
   ### Streamlit
- - To run it locally: run `python -m streamlit run mainScript.py` in the cmd
+  
+ - To run it locally: 
+ 
+Clone the repository to your local machine. 
+Install all packages from `requirements.txt`.
+
+Run 
+```
+python -m streamlit run mainScript.py
+```
+in the cmd
+
  - To open the app:  https://share.streamlit.io/juholland/afg_streamlit/main/mainScript.py
+ 
+  ### Tableau 
+ (Tableau license required)
+ - To run it locally: 
+ 
+ Download the folder from the SharedPoint ([AFG_Tableau](https://wfp.sharepoint.com/:f:/s/ClimateandEarthObservation/EsIMBQ07h2dJvVtOTfTC5dUBd-x-7nYly0liPtVt31MevQ?e=Y3WCgF)). Open `AFG_NDVI.twb` with Tableau Desktop
+ 
+ - To open the app:  https://analytics.wfp.org/t/Public/views/AFG_NDVI/Dashboard?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+
  
  
 ## Status
