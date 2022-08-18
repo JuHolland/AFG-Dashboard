@@ -25,7 +25,7 @@ in the cmd
  (Tableau license required)
  - To run it locally: 
  
- Download the folder from the SharedPoint ([AFG_Tableau](https://wfp.sharepoint.com/:f:/s/ClimateandEarthObservation/EsIMBQ07h2dJvVtOTfTC5dUBd-x-7nYly0liPtVt31MevQ?e=Y3WCgF)). Open `AFG_NDVI.twb` with Tableau Desktop
+ Download the folder from the SharePoint ([AFG_Tableau](https://wfp.sharepoint.com/:f:/s/ClimateandEarthObservation/EsIMBQ07h2dJvVtOTfTC5dUBd-x-7nYly0liPtVt31MevQ?e=Y3WCgF)). Open `AFG_NDVI.twb` with Tableau Desktop
  
  - To open the app:  https://analytics.wfp.org/t/Public/views/AFG_NDVI/Dashboard?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
 
